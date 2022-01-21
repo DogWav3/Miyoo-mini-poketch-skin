@@ -2,3 +2,4 @@
 
 # Miyoo mini poketch skin (BETA) 1
  Miyoo mini poketch skin (BETA) 1
+https://github.com/DogWav3/Miyoo-mini-poketch-skin/releases/tag/Pok%C3%A9tch_Release
